@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/usuario/practicas/CyA/p04_code_analyzer/src/precompiler.cc
+precompiler.h
+/home/usuario/practicas/CyA/p04_code_analyzer/src/precompiler.h
+
+/home/usuario/practicas/CyA/p04_code_analyzer/src/precompiler.h
+iostream
+-
+vector
+-
+regex
+-
+string
+-
+
